@@ -57,6 +57,14 @@ form{
     width: 450px;
     line-height: 20px;
 }
+#username{
+    width: 450px;
+    line-height: 20px;
+}
+#password{
+    width: 450px;
+    line-height: 20px;
+}
 
 section{
     width: 370px;
@@ -69,4 +77,10 @@ section{
     justify-content: space-around;
     align-items: stretch;
     align-content: stretch;
+}
+
+footer{
+    width: 470px;
+    align-items: center;
+    margin-left: 750px;
 }
